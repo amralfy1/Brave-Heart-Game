@@ -1,0 +1,3 @@
+amr,5000
+Ahmed,1000
+yousef,500

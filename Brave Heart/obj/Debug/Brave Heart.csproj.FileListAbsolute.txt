@@ -1,0 +1,12 @@
+H:\project\OOP Project\OOP Project\Brave Heart\bin\Debug\Brave Heart.exe.config
+H:\project\OOP Project\OOP Project\Brave Heart\bin\Debug\Brave Heart.exe
+H:\project\OOP Project\OOP Project\Brave Heart\bin\Debug\Brave Heart.pdb
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave Heart.csprojAssemblyReference.cache
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\OOP_Project.Game.resources
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\OOP_Project.Form2.resources
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\OOP_Project.Form3.resources
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave_Heart.Properties.Resources.resources
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave Heart.csproj.GenerateResource.cache
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave Heart.csproj.CoreCompileInputs.cache
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave Heart.exe
+H:\project\OOP Project\OOP Project\Brave Heart\obj\Debug\Brave Heart.pdb
